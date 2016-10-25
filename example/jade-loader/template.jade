@@ -1,0 +1,8 @@
+docutype html
+html
+    head
+        title = HtmlWebpackPlugin.option.title
+    body
+        #main
+            -locals.time = new Date('01 01 1999')
+            include ./time.jade
