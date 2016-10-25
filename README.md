@@ -40,5 +40,5 @@
 
 # 参考资料
 
-- [自己翻译的官方文档](http://www.tsingwong.cn/2016/10/24/webpack-%E6%8F%92%E4%BB%B6%E4%B9%8B-Html-Webpack-Plugin/)
+- [自己翻译的文档](http://www.tsingwong.cn/2016/10/24/webpack-%E6%8F%92%E4%BB%B6%E4%B9%8B-Html-Webpack-Plugin/)
 - [英文官方文档](https://github.com/ampedandwired/html-webpack-plugin)
